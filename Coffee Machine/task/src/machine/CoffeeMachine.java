@@ -37,7 +37,7 @@ public class CoffeeMachine {
         System.out.println(milk + " of milk");
         System.out.println(coffee_beans + " of coffee beans");
         System.out.println(d_cups + " of dispossable cups");
-        System.out.println(money + " of money \n");
+        System.out.println("$"+money + " of money \n");
     }
 
     static void buy() {
@@ -95,9 +95,7 @@ public class CoffeeMachine {
                 if(d_cups<1)
                     System.out.println("Sorry, not enough cups!");
             }
-        } else if (i.equals("back")) {
-
-        }
+        } else if (i.equals("back")) { }
         System.out.println();
     }
 
