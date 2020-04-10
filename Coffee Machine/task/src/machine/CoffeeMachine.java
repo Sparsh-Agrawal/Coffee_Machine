@@ -29,15 +29,6 @@ public class CoffeeMachine {
                 break;
             }
         }
-
-
-
-
-
-
-
-
-
 //        System.out.println("Write how many ml of water the coffee machine has: ");
 //        int w = scan.nextInt() / 200;
 //
