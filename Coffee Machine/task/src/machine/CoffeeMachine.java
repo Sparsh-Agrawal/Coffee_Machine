@@ -29,36 +29,6 @@ public class CoffeeMachine {
                 break;
             }
         }
-//        System.out.println("Write how many ml of water the coffee machine has: ");
-//        int w = scan.nextInt() / 200;
-//
-//        System.out.println("Write how many ml of milk the coffee machine has: ");
-//        int m =scan.nextInt() / 50;
-//
-//        System.out.println("Write how many grams of coffee beans the coffee machine has:");
-//        int cb = scan.nextInt() / 15;
-//
-//        System.out.println("Write how many cups of coffee you will need: ");
-//        int cc = scan.nextInt();
-//
-//        int cm = w;
-//
-//        if( m < cm && m < cb ) {
-//            cm = m;
-//        } else if (cb < cm ) {
-//            cm = cb;
-//        }
-//
-//        if ( cm == cc ) {
-//            System.out.println("Yes, I can make that amount of coffee");
-//        } else if ( cc < cm ) {
-//            System.out.println("Yes, I can make that amount of coffee (and even " + (cm-cc) + " more than that)");
-//        } else {
-//            System.out.println("No, I can make only " + (cm) + " cup(s) of coffee");
-//        }
-
-
-
 
 //        System.out.println("Write how many cups of coffee you will need: ");
 //
