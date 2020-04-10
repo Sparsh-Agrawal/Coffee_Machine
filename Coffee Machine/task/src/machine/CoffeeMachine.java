@@ -19,13 +19,10 @@ public class CoffeeMachine {
 
             if (action.equals("buy")) {
                 buy();
-                printCMStatus();
             } else if (action.equals("fill")) {
                 fill();
-                printCMStatus();
             } else if (action.equals("take")) {
                 take();
-                printCMStatus();
             } else if (action.equals("remaining")) {
                 printCMStatus();
             } else if (action.equals("exit")) {
